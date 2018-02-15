@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A82EAD58-40D7-49BE-8F24-09FEA34F9E55}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Platformer2D/Game/Accelerometer.cs">
+    <Files>
+      <File FileName="Platformer2D/Game.cs" Line="1" Column="1" />
+      <File FileName="Platformer2D/Game/Accelerometer.cs" Line="29" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
